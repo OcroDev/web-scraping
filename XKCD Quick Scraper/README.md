@@ -2,13 +2,13 @@
 
 ### Hi there!
 
-This is a scraper to download comics from xkcd.com in Json format to be used in other projects.
+This is a scraper to download comics from [xkcd.com](https://xkcd.com/) in Json format to be used in other projects.
 
 ---
 
 ### Hola!
 
-Este es un scrarper para descargar comics de xkcd.com en formato Json para ser usado en tus proyectos.
+Este es un scrarper para descargar comics de [xkcd.com](https://xkcd.com/) en formato Json para ser usado en tus proyectos.
 
 ***
 
