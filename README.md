@@ -16,4 +16,6 @@ Aquí encontrarás algunos scripts que hacen scraping de alguna página en concr
 
 ## Scraping list: 
 
-- [BCV Scraping](https://github.com/OcroDev/web-scraping/tree/main/BCV%20scraping, 'Bcv scraping oficial exchange rates')
+- [BCV Scraper](https://github.com/OcroDev/web-scraping/tree/main/BCV%20scraping, 'Bcv scraping oficial exchange rates')
+
+- [XKCD Scraper](https://github.com/OcroDev/web-scraping/tree/main/XKCD%20Quick%20Scraper)
